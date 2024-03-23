@@ -1,7 +1,7 @@
 package org.example;
 
-import lld.pizzashop.pizza.PizzaEnum;
-import lld.pizzashop.toppings.ToppingsEnum;
+import org.example.pizza.PizzaEnum;
+import org.example.toppings.ToppingsEnum;
 
 public class PizzaShop {
     public static void main(String[] args) {

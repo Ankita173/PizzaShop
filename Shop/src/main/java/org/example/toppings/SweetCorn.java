@@ -1,6 +1,6 @@
 package org.example.toppings;
 
-import lld.pizzashop.pizza.PizzaType;
+import org.example.pizza.PizzaType;
 
 public class SweetCorn implements Toppings {
     PizzaType pizza;

@@ -1,11 +1,11 @@
 package org.example;
 
-import lld.pizzashop.pizza.Farmhouse;
-import lld.pizzashop.pizza.Margerita;
-import lld.pizzashop.pizza.PizzaEnum;
-import lld.pizzashop.toppings.Jalepino;
-import lld.pizzashop.toppings.SweetCorn;
-import lld.pizzashop.toppings.ToppingsEnum;
+import org.example.pizza.Farmhouse;
+import org.example.pizza.Margerita;
+import org.example.pizza.PizzaEnum;
+import org.example.toppings.Jalepino;
+import org.example.toppings.SweetCorn;
+import org.example.toppings.ToppingsEnum;
 
 public class PizzafactoryImpl extends PizzaFactory{
 
